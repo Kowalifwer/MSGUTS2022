@@ -2,7 +2,7 @@
 import socket
 import time
 import random
- 
+
 
 msgFromClient       = "requestjoin:mydisplayname"
 name = "mydisplayname"
